@@ -1,0 +1,100 @@
+Date and Time:20-Dec-23 06:03:43 PM - WARNING - parent_config -Line number:71 : Failed to create parent. Status code: 400
+Date and Time:20-Dec-23 06:15:03 PM - WARNING - parent_config -Line number:70 : Failed to create parent. Status code: 400
+Date and Time:20-Dec-23 06:20:42 PM - WARNING - parent_config -Line number:70 : Failed to create parent. Status code: 400
+Date and Time:20-Dec-23 06:20:52 PM - INFO - parent_config -Line number:88 : Parent was updated successfully!. Status code: 400
+Date and Time:21-Dec-23 10:23:58 AM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:21-Dec-23 10:36:04 AM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:21-Dec-23 11:14:39 AM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:21-Dec-23 11:17:19 AM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:21-Dec-23 11:42:43 AM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:21-Dec-23 11:51:24 AM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:21-Dec-23 11:56:39 AM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:21-Dec-23 12:32:34 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 12:38:01 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 12:41:06 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 12:43:36 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 01:14:39 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 01:20:33 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 01:22:30 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 02:34:22 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 02:46:18 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 02:48:38 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 02:51:23 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 02:54:33 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 02:59:57 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 03:05:35 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 03:08:46 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 03:11:46 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 03:14:26 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 03:33:13 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 03:33:31 PM - INFO - add_new_student -Line number:33 : To add new data, Unselect the Checkbox
+Date and Time:22-Dec-23 03:36:17 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 03:36:34 PM - INFO - add_new_student -Line number:33 : To add new data, Unselect the Checkbox
+Date and Time:22-Dec-23 03:55:17 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 03:55:35 PM - INFO - add_new_student -Line number:33 : To add new data, Unselect the Checkbox
+Date and Time:22-Dec-23 03:57:44 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 03:58:12 PM - WARNING - add_new_student -Line number:37 : There is no alert message
+Date and Time:22-Dec-23 04:13:54 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 04:14:12 PM - INFO - add_new_student -Line number:33 : To add new data, Unselect the Checkbox
+Date and Time:22-Dec-23 04:17:02 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 04:17:16 PM - INFO - add_new_student -Line number:33 : To add new data, Unselect the Checkbox
+Date and Time:22-Dec-23 04:17:37 PM - INFO - add_new_student -Line number:60 : Student was created successfully!
+Date and Time:22-Dec-23 04:17:45 PM - WARNING - add_new_student -Line number:64 : Student creation failed.
+Date and Time:22-Dec-23 04:18:16 PM - INFO - update_existing_student -Line number:92 : Student was updated successfully!
+Date and Time:22-Dec-23 04:43:17 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 04:50:10 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 04:53:30 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 04:54:44 PM - INFO - edit_studentRouteAssign -Line number:59 : Route was updated to the student successfully!
+Date and Time:22-Dec-23 05:00:34 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 05:18:40 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 05:18:52 PM - INFO - delete_studentRouteAssign -Line number:83 : To delete data, No Row is Selected, Please Select a Row
+Date and Time:22-Dec-23 05:43:03 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 05:43:26 PM - INFO - add_new_parent -Line number:30 : To add new data, Unselect the Checkbox
+Date and Time:22-Dec-23 05:44:01 PM - WARNING - add_new_parent -Line number:71 : Failed to create parent. Status code: 400
+Date and Time:22-Dec-23 05:47:17 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 05:47:40 PM - INFO - add_new_parent -Line number:30 : To add new data, Unselect the Checkbox
+Date and Time:22-Dec-23 05:48:02 PM - WARNING - add_new_parent -Line number:71 : Failed to create parent. Status code: 400
+Date and Time:22-Dec-23 05:48:50 PM - WARNING - edit_existing_parent -Line number:92 : There is no alert message
+Date and Time:22-Dec-23 05:59:12 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 05:59:53 PM - WARNING - edit_existing_parent -Line number:92 : There is no alert message
+Date and Time:22-Dec-23 06:05:25 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:22-Dec-23 06:05:55 PM - INFO - edit_existing_parent -Line number:89 : To edit data, No Field is selected,Please select one field
+Date and Time:22-Dec-23 06:06:05 PM - INFO - edit_existing_parent -Line number:106 : Parent was updated successfully!. 
+Date and Time:26-Dec-23 04:24:51 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:26-Dec-23 04:25:09 PM - INFO - add_new_vehicle -Line number:30 : To add new data, Unselect the Checkbox
+Date and Time:26-Dec-23 04:26:49 PM - INFO - do_login -Line number:44 : Logged in successfully!!
+Date and Time:26-Dec-23 04:27:07 PM - INFO - add_new_vehicle -Line number:30 : To add new data, Unselect the Checkbox
+Date and Time:26-Dec-23 04:27:55 PM - WARNING - add_new_vehicle -Line number:97 : Vehicle not created!
+Date and Time:26-Dec-23 04:28:51 PM - WARNING - update_existing_vehicle -Line number:152 : Vehicle not created!
+Date and Time:26-Dec-23 04:29:16 PM - INFO - download_vehicle_reports -Line number:166 : PDF for vehicle list downloaded successfully
+Date and Time:26-Dec-23 04:29:24 PM - INFO - download_vehicle_reports -Line number:172 : Excel file for vehicle list downloaded successfully
+Date and Time:27-Dec-23 11:15:12 AM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:27-Dec-23 11:38:22 AM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:27-Dec-23 11:48:17 AM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:27-Dec-23 12:09:21 PM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:27-Dec-23 12:36:50 PM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:27-Dec-23 12:48:04 PM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:27-Dec-23 12:48:18 PM - INFO - add_new_student -Line number:33 : To add new data, Unselect the Checkbox
+Date and Time:27-Dec-23 12:48:39 PM - INFO - add_new_student -Line number:60 : Student was created successfully!
+Date and Time:27-Dec-23 12:49:18 PM - INFO - update_existing_student -Line number:89 : Student was updated successfully!
+Date and Time:27-Dec-23 12:50:09 PM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:27-Dec-23 12:50:46 PM - INFO - add_studentRouteAssign -Line number:36 : Route was assigned to the student successfully!
+Date and Time:27-Dec-23 12:51:22 PM - WARNING - edit_studentRouteAssign -Line number:53 : There is no alert message
+Date and Time:27-Dec-23 12:51:35 PM - INFO - edit_studentRouteAssign -Line number:67 : Route was updated to the student successfully!
+Date and Time:27-Dec-23 12:51:52 PM - INFO - delete_studentRouteAssign -Line number:83 : To delete data, No Row is Selected, Please Select a Row
+Date and Time:27-Dec-23 12:52:48 PM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:27-Dec-23 12:53:06 PM - INFO - add_new_vehicle -Line number:29 : To add new data, Unselect the Checkbox
+Date and Time:02-Jan-24 12:52:38 PM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:02-Jan-24 12:53:57 PM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:02-Jan-24 12:54:50 PM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:02-Jan-24 12:56:24 PM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:02-Jan-24 12:57:55 PM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:02-Jan-24 12:58:43 PM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:02-Jan-24 12:59:08 PM - WARNING - add_new_student -Line number:37 : There is no alert message
+Date and Time:02-Jan-24 12:59:55 PM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:02-Jan-24 01:00:36 PM - INFO - add_studentRouteAssign -Line number:36 : Route was assigned to the student successfully!
+Date and Time:02-Jan-24 01:01:13 PM - WARNING - edit_studentRouteAssign -Line number:53 : There is no alert message
+Date and Time:02-Jan-24 01:01:26 PM - INFO - edit_studentRouteAssign -Line number:67 : Route was updated to the student successfully!
+Date and Time:02-Jan-24 01:01:43 PM - INFO - delete_studentRouteAssign -Line number:83 : To delete data, No Row is Selected, Please Select a Row
+Date and Time:02-Jan-24 01:02:36 PM - INFO - do_login -Line number:43 : Logged in successfully!!
+Date and Time:02-Jan-24 01:02:54 PM - INFO - add_new_vehicle -Line number:29 : To add new data, Unselect the Checkbox
